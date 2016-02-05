@@ -4,11 +4,11 @@ Briefly describe your app here.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Emin Arakelian ([emin@berkeley.edu](mailto:emin@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See Track'n'Fit [here] (https://www.youtube.com/watch?v=IUPWCx71G1M)
 
 ## Screenshots
 
