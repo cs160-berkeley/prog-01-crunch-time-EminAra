@@ -44,48 +44,6 @@ There are a total of twelve exercises to choose from as listed below:
 ----------
 
 
- 
-#### Interaction
-
-When you first open Track'n'Fit, you will see the home screen, you can set your weight using the three dots on the upper right corner as displayed bellow:
-
-<div><p><center>
-<img src="http://s28.postimg.org/ckp2mguxp/image.png" width="268.8" height="460.8" align="left"/>
-<img src="http://s28.postimg.org/9geepoe59/image.png" width="268.8" height="460.8" align="right"/></center></p><BR CLEAR="both"></div>
-<p></p>
-
-
-Once you click on the dots, a drop down list will be displayed, choose "Enter Your Weight". In the text entry box that appears first, you can enter your weight in pounds. Press OK to continue.
-
-<div><p><center>
-<img src="http://s28.postimg.org/ey70dh9ct/image.png" width="268.8" height="460.8" align="left"/>
-<img src="http://s28.postimg.org/fdia6hva5/image.png" width="268.8" height="460.8" align="right"/></center></p><BR CLEAR="both"></div>
-<p></p>
-
-Next from the dropdown list on the right, choose the setting that you want. You can either enter calories to know how much of each exercise you should do to burn them, or you can choose a certain exercise and enter the number of repetitions or duration of minutes to know what are they equivalent to in other exercises and calories.
-
-<div><p><center>
-<img src="http://s28.postimg.org/xf1f4apb1/image.png" width="268.8" height="460.8" align="middle"/>
-</center></p><BR CLEAR="both"></div>
-<p></p>
-
-You can then simply enter the amount of calories, number of repetitions or duration of minutes to see the results.
-
-<div><p><center>
-<img src="http://s28.postimg.org/m6in2rm3h/image.png" width="268.8" height="460.8" align="middle"/>
-</center></p><BR CLEAR="both"></div>
-<p></p>
-
-
-----------
-
-
-*Thank you for your interest in Track'n'Fit, I hope you enjoy it*
-
-
-----------
-
-
 ## Authors
 
 Emin Arakelian ([emin@berkeley.edu](mailto:emin@berkeley.edu))
@@ -96,32 +54,20 @@ See Track'n'Fit [here] (https://www.youtube.com/watch?v=IUPWCx71G1M)
 
 ## Screenshots
 
-When you first open Track'n'Fit, you will see the home screen, you can set your weight using the three dots on the upper right corner as displayed bellow:
+
 
 <div><p><center>
-<img src="http://s28.postimg.org/ckp2mguxp/image.png" width="268.8" height="460.8" align="left"/>
-<img src="http://s28.postimg.org/9geepoe59/image.png" width="268.8" height="460.8" align="right"/></center></p><BR CLEAR="both"></div>
+<img src="http://s28.postimg.org/ckp2mguxp/image.png" width="268.8" height="460.8" align="left"/></center></p><BR CLEAR="both"></div>
 <p></p>
-
-
-Once you click on the dots, a drop down list will be displayed, choose "Enter Your Weight". In the text entry box that appears first, you can enter your weight in pounds. Press OK to continue.
 
 <div><p><center>
 <img src="http://s28.postimg.org/ey70dh9ct/image.png" width="268.8" height="460.8" align="left"/>
 <img src="http://s28.postimg.org/fdia6hva5/image.png" width="268.8" height="460.8" align="right"/></center></p><BR CLEAR="both"></div>
 <p></p>
 
-Next from the dropdown list on the right, choose the setting that you want. You can either enter calories to know how much of each exercise you should do to burn them, or you can choose a certain exercise and enter the number of repetitions or duration of minutes to know what are they equivalent to in other exercises and calories.
-
 <div><p><center>
-<img src="http://s28.postimg.org/xf1f4apb1/image.png" width="268.8" height="460.8" align="middle"/>
-</center></p><BR CLEAR="both"></div>
-<p></p>
-
-You can then simply enter the amount of calories, number of repetitions or duration of minutes to see the results.
-
-<div><p><center>
-<img src="http://s28.postimg.org/m6in2rm3h/image.png" width="268.8" height="460.8" align="middle"/>
+<img src="http://s28.postimg.org/xf1f4apb1/image.png" width="268.8" height="460.8" align="left"/>
+<img src="http://s28.postimg.org/m6in2rm3h/image.png" width="268.8" height="460.8" align="right"/>
 </center></p><BR CLEAR="both"></div>
 <p></p>
 
