@@ -2,8 +2,9 @@
 
 
 
-
-![Cover](http://s22.postimg.org/4tretykrl/Cover.png)
+<div><p><center>
+<img src="http://s22.postimg.org/4tretykrl/Cover.png" width="1280" height="1281.3" align="middle"/></center></p><BR CLEAR="both"></div>
+<p></p>
 
 ## Track'n'Fit
 
@@ -15,7 +16,7 @@
 
 
 
-#### Introduction
+#### Summary
 
 The app Track'n'Fit is designed to convert Calories to workouts so the user can know how  much activity is required to burn the consumed Calories. 
 
