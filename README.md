@@ -22,8 +22,8 @@ The app Track'n'Fit is designed to convert Calories to workouts so the user can 
 The users can set their weight in the app in pounds for a more realistic conversion. They would then have three choices:
 
  1. Enter the Calorie intake: in this case the app will display the number of repetitions or the duration in minute of the exercises that will burn that many Calories.
- 2. Enter the number of Reps: in this case the app will display the equivalent number of reps or minutes in the other exercises. The number of Calories will also be displayed next to each exercises.
- 3. Enter the duration of Minutes: Which is the same as above but for exercises which require time as opposed to reps.
+ 2. Enter the number of Reps: in this case the app will display the equivalent number of reps or minutes in the other exercises. The number of Calories will also be displayed next to each exercise.
+ 3. Enter the duration of Minutes: Which is the same as above but for exercises that require time as opposed to reps.
 
 There are a total of twelve exercises to choose from as listed below:
 
