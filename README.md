@@ -67,7 +67,8 @@ See Track'n'Fit [here] (https://www.youtube.com/watch?v=IUPWCx71G1M)
 </center></p><BR CLEAR="both"></div>
 <p></p>
 
-## Acknowledgments
+## Acknowledgments and Notes
 
 * Hat tip to anyone who's code was used
 * If you own the artwork, please let me have them, I got them from Google, Thank you.
+* My machine was malfunctioning, thus I had to finish and push this code it using a friends Mac.
