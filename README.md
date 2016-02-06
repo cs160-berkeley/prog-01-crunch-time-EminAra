@@ -70,6 +70,4 @@ See Track'n'Fit [here] (https://www.youtube.com/watch?v=IUPWCx71G1M)
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+* If you own the artwork, please let me have them, I got them from Google, Thank you.
