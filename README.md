@@ -57,8 +57,7 @@ See Track'n'Fit [here] (https://www.youtube.com/watch?v=IUPWCx71G1M)
 
 
 <div><p><center>
-<img src="http://s28.postimg.org/ckp2mguxp/image.png" width="268.8" height="460.8" align="left"/></center></p><BR CLEAR="both"></div>
-<img src="http://s28.postimg.org/ey70dh9ct/image.png" width="268.8" height="460.8" align="middle"/>
+<img src="http://s28.postimg.org/ey70dh9ct/image.png" width="268.8" height="460.8" align="left"/>
 <img src="http://s28.postimg.org/fdia6hva5/image.png" width="268.8" height="460.8" align="right"/></center></p><BR CLEAR="both"></div>
 <p></p>
 
