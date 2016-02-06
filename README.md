@@ -2,9 +2,8 @@
 
 
 
-<div><p><center>
-<img src="http://s22.postimg.org/4tretykrl/Cover.png" width="640" height="640" align="right"/></center></p><BR CLEAR="both"></div>
-<p></p>
+![Cover](http://s22.postimg.org/4tretykrl/Cover.png)
+
 
 ## Track'n'Fit
 
