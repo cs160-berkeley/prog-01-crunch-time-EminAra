@@ -3,7 +3,7 @@
 
 
 <div><p><center>
-<img src="http://s22.postimg.org/4tretykrl/Cover.png" width="1281.3" height="1280" align="middle"/></center></p><BR CLEAR="both"></div>
+<img src="http://s22.postimg.org/4tretykrl/Cover.png" width="640" height="640" align="middle"/></center></p><BR CLEAR="both"></div>
 <p></p>
 
 ## Track'n'Fit
